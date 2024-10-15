@@ -1,0 +1,6 @@
+# Ignore everything
+*
+
+# Allow main.py & .gitignore
+!main.py
+!.gitignore
